@@ -6,6 +6,12 @@ export const companies = [
 		prominent: true,
 	},
 	{
+		href: "https://covidlive.app",
+		src: "organisations/covidlive-logo.png",
+		alt: "CovidLive logo",
+		prominent: true,
+	},
+	{
 		href: "https://yellowpop.com",
 		src: "organisations/yellowpop.svg",
 		alt: "Yellowpop logo",
